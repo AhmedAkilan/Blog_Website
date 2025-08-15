@@ -1,2 +1,2 @@
-# Hospital-management
-The Hospital Management System is a comprehensive software solution designed to streamline hospital operations, improve patient care, and optimize resource utilization. It enables administrators, doctors, nurses, and other staff to manage all aspects of a hospital’s workflow from a single, unified platform.
+# Blog_Website
+A Blog Website is a web application that allows users to create, publish, edit, and delete blog posts. It serves as an online platform for individuals, communities, and businesses to share news, opinions, and stories. The user interface will be built using HTML, CSS, JavaScript, and Bootstrap to ensure responsiveness and ease of use. The backend will be developed using Laravel (PHP framework) and MySQL for database management. This project aims to provide an organized, accessible, and interactive space for content sharing..
